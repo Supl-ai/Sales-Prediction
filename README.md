@@ -1,5 +1,5 @@
 # Sales-Prediction: M5 Forecasting 
-This is an IPython Notebook that uses past data to estimate the unit sales of Walmart retail goods for the next 28 days. This file contains exploratory data analysis and models for time-series prediction
+This is an IPython Notebook that uses past data to estimate the unit sales of Walmart retail goods for the next 28 days. This file contains exploratory data analysis and models for time-series prediction.
 
 ### Dataset & Objective
 - Estimate, as precisely as possible, the point forecasts of the unit sales of various products sold in the USA by Walmart? 
